@@ -1,0 +1,17 @@
+{
+  "name": "learning-functional-programming",
+  "version": "1.0.0",
+  "private": true,
+  "description": "functional programming exercise, just hands-on practice",
+  "scripts": {
+    "test": "mocha ./*/*_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "ramda": "^0.23.0"
+  }
+}
